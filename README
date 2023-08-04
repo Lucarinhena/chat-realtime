@@ -18,7 +18,6 @@ Projeto desenvolvido afim de mostrar a possibilidade de criar um chat em tempo r
 `npm run start`
 (Lembrar de adicionar no arquivo package.json o script de "start")
 
-![Alt text](printChat-1.png)
 
 ## ✒️ Autores
 
